@@ -1,0 +1,46 @@
+ul {
+  padding: 0px;
+  display: flex;
+  width: 100vw;
+  overflow: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+ul::-webkit-scrollbar {
+  width: 0px;
+}
+
+@media screen and (min-width: 575px) {
+  ul {
+    flex-wrap: wrap;
+    width: 600px;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 950px) {
+  .ulProducts {
+    margin-right: 35%;
+  }
+
+  .divCarrinho {
+    position: absolute;
+    right: 5%;
+    top: 160px;
+  }
+}
+
+@media screen and (min-width: 1226px) {
+  .ulProducts {
+    width: 846px;
+    margin-left: 4%;
+  }
+
+  .divCarrinho {
+    right: 3%;
+  }
+
+  .divcart {
+    width: fit-content;
+  }
+}
