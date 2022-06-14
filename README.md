@@ -6,7 +6,7 @@
 
 # :bulb: Descrição
 
-Kenzie Burguer é uma aplicação que simula uma plataforma de delivery de fast food, contando com uma vitrina, sistema de pesquisa e carrinho onde é possívcel adicionar e excluir produtos.
+Kenzie Burguer é uma aplicação que simula uma plataforma de delivery de fast food, contando com uma vitrine, sistema de pesquisa e carrinho onde é possívcel adicionar e excluir produtos.
 
 # :link: Link da aplicação
 
