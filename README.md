@@ -2,7 +2,7 @@
 
 # :rocket: Kenzie-Hub
 
-![alt text](https://i.ibb.co/nkJG1qd/Black-and-Brown-Makeup-Photo-Collage-1.png)
+![alt text](https://i.ibb.co/SJRVd5M/Black-and-Brown-Makeup-Photo-Collage-35-20-cm.png)
 
 # :bulb: Descrição
 
