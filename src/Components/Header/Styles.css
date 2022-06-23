@@ -1,0 +1,61 @@
+.logo {
+  margin: 15px;
+}
+
+input {
+  width: 280px;
+  height: 50px;
+  background: #FFFFFF;
+  border: 2px solid #E0E0E0;
+  border-radius: 5px;
+  box-sizing: border-box;
+  color: #E0E0E0;
+  padding: 10px;
+  font-family: 'Inter';
+}
+
+.search {
+  height: 38px;
+  background: #27AE60;
+  color: #FFFFFF;
+  border: 2px solid #27AE60;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  font-family: 'Inter';
+  position: absolute;
+  top: 6px;
+  left: 190px;
+}
+
+.search:hover {
+  background-color: #93D7AF;
+  border: 2px solid #93D7AF;
+}
+
+.App-header {
+  background: #F5F5F5;
+  height: 130px;
+}
+
+.divButton {
+  position: relative;
+  width: 280px;
+  margin: auto;
+}
+
+@media screen and (min-width: 550px) {
+  .App-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  form {
+    margin-right: 4%;
+  }
+
+  .divLogo {
+    margin-left: 5%;
+  }
+}

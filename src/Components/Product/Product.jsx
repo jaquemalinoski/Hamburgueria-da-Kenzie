@@ -1,6 +1,5 @@
 import './styles.css'
 import FormatNumber from "../FormatNumber/FormatNumber"
-import Button from '../Button/Button'
 
 function Product ({product, handleClick}) {
 
@@ -12,7 +11,7 @@ function Product ({product, handleClick}) {
         <h2 className='name'>{product.name}</h2>
         <p className='category'>{product.category}</p>
         <FormatNumber format={'0.0,'}>{product.price}</FormatNumber>
-        <Button product={product.id} handleClick={handleClick}/>
+        <button onClick={() => handleClick(product.id)} className='addCarrinho'>Adicionar</button>
     </li>
   )
 }
