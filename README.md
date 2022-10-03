@@ -1,5 +1,3 @@
-# Kenzie Burguer
-
 # :rocket: Kenzie Burguer
 
 ![alt text](https://i.ibb.co/SJRVd5M/Black-and-Brown-Makeup-Photo-Collage-35-20-cm.png)
