@@ -8,7 +8,7 @@ Kenzie Burguer é uma aplicação que simula uma plataforma de delivery de fast 
 
 # :link: Link da aplicação
 
-https://react-entrega-s2-kenzie-hub-jaquemalinoski.vercel.app/
+https://react-entrega-s1-hamburgueria-da-kenzie-jaquemalinoski.vercel.app/
 
 # :computer: Tecnologias / Bibliotecas Utilizadas
 
